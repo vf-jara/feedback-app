@@ -11,8 +11,8 @@
       "text": "This is feedback item 3 coming from the backend"
     },
     {
-      "rating": "5",
-      "text": "Post request testing",
+      "text": "changing a review",
+      "rating": 3,
       "id": 4
     }
   ]
